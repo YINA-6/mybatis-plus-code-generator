@@ -1,0 +1,2 @@
+# MybatisPlusCodeGenerator
+Mybatis-Plus代码快速构建工具类通用版
